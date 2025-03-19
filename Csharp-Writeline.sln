@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Writeline", "Csharp-Writeline.csproj", "{2B07F148-757F-4C66-AF54-D66ED5491F4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-VariablesAndDataType", "..\Csharp-VariablesAndDataType\Csharp-VariablesAndDataType.csproj", "{78D5CB88-6A28-448D-B2D3-F63ADBDFF1A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2B07F148-757F-4C66-AF54-D66ED5491F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B07F148-757F-4C66-AF54-D66ED5491F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B07F148-757F-4C66-AF54-D66ED5491F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D5CB88-6A28-448D-B2D3-F63ADBDFF1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D5CB88-6A28-448D-B2D3-F63ADBDFF1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D5CB88-6A28-448D-B2D3-F63ADBDFF1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D5CB88-6A28-448D-B2D3-F63ADBDFF1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
