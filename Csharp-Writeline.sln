@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-DatatypeConversion",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ArithmeticOperators", "..\Csharp-ArithmeticOperators\Csharp-ArithmeticOperators.csproj", "{671B4398-0C1B-4BD0-BDD8-AAC01C85CDD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ConditionalStatements", "..\Csharp-ConditionalStatements\Csharp-ConditionalStatements.csproj", "{58883C0F-4941-4941-826C-9E34DFAE2A8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{671B4398-0C1B-4BD0-BDD8-AAC01C85CDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671B4398-0C1B-4BD0-BDD8-AAC01C85CDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{671B4398-0C1B-4BD0-BDD8-AAC01C85CDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58883C0F-4941-4941-826C-9E34DFAE2A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58883C0F-4941-4941-826C-9E34DFAE2A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58883C0F-4941-4941-826C-9E34DFAE2A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58883C0F-4941-4941-826C-9E34DFAE2A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
