@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-OverloadingMethods",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-SummationOfNumbersChallenge-Function-Lesson9", "..\Csharp-SummationOfNumbersChallenge-Function-Lesson9\Csharp-SummationOfNumbersChallenge-Function-Lesson9.csproj", "{99B9F597-701A-4BB8-A057-DEA0FD97425A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Classess&Objects", "..\Csharp-Classess&Objects\Csharp-Classess&Objects.csproj", "{F73AB672-DDD9-46B8-97C7-9E3A24CC8399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{99B9F597-701A-4BB8-A057-DEA0FD97425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B9F597-701A-4BB8-A057-DEA0FD97425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B9F597-701A-4BB8-A057-DEA0FD97425A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73AB672-DDD9-46B8-97C7-9E3A24CC8399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73AB672-DDD9-46B8-97C7-9E3A24CC8399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73AB672-DDD9-46B8-97C7-9E3A24CC8399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73AB672-DDD9-46B8-97C7-9E3A24CC8399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
