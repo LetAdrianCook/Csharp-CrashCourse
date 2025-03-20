@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ForLoop", "..\Csharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Arrays", "..\Csharp-Arrays\Csharp-Arrays.csproj", "{E3C74196-EEF5-45C0-8067-8BC2813F6782}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Functions", "..\Csharp-Functions\Csharp-Functions.csproj", "{2249968C-C69C-4445-9048-2FF937EA0A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E3C74196-EEF5-45C0-8067-8BC2813F6782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3C74196-EEF5-45C0-8067-8BC2813F6782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3C74196-EEF5-45C0-8067-8BC2813F6782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2249968C-C69C-4445-9048-2FF937EA0A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2249968C-C69C-4445-9048-2FF937EA0A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2249968C-C69C-4445-9048-2FF937EA0A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2249968C-C69C-4445-9048-2FF937EA0A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
