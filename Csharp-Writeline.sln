@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ConditionalStatement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-SwitchStatements", "..\Csharp-SwitchStatements\Csharp-SwitchStatements.csproj", "{87EB9390-B083-41C0-8B5D-767E5E40438C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-While&DoWhile", "..\Csharp-While&DoWhile\Csharp-While&DoWhile.csproj", "{FD8B4647-8EAD-4F27-A421-DC20E512E67D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{87EB9390-B083-41C0-8B5D-767E5E40438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87EB9390-B083-41C0-8B5D-767E5E40438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87EB9390-B083-41C0-8B5D-767E5E40438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8B4647-8EAD-4F27-A421-DC20E512E67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B4647-8EAD-4F27-A421-DC20E512E67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B4647-8EAD-4F27-A421-DC20E512E67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B4647-8EAD-4F27-A421-DC20E512E67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
