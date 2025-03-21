@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ObjectMethods", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ObjectMethodChallenge", "..\Csharp-ObjectMethodChallenge\Csharp-ObjectMethodChallenge.csproj", "{8B9E44FD-4E2B-4139-A7BD-29F677A4ACF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Inheritance", "..\Csharp-Inheritance\Csharp-Inheritance.csproj", "{F217728F-19E8-4DC3-887C-FD49048E197E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{8B9E44FD-4E2B-4139-A7BD-29F677A4ACF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9E44FD-4E2B-4139-A7BD-29F677A4ACF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9E44FD-4E2B-4139-A7BD-29F677A4ACF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F217728F-19E8-4DC3-887C-FD49048E197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F217728F-19E8-4DC3-887C-FD49048E197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F217728F-19E8-4DC3-887C-FD49048E197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F217728F-19E8-4DC3-887C-FD49048E197E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
