@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ObjectMethodChalleng
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Inheritance", "..\Csharp-Inheritance\Csharp-Inheritance.csproj", "{F217728F-19E8-4DC3-887C-FD49048E197E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Inheritance-Overriding Methods", "..\Csharp-Inheritance-Overriding Methods\Csharp-Inheritance-Overriding Methods.csproj", "{812C8E6D-0021-4A5E-B1DF-DF71F77628D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Inheritance-Example-withoverriding", "..\Csharp-Inheritance-Example-withoverriding\Csharp-Inheritance-Example-withoverriding.csproj", "{4E4E2286-72D5-4567-82EE-F18B80E88FB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{F217728F-19E8-4DC3-887C-FD49048E197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F217728F-19E8-4DC3-887C-FD49048E197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F217728F-19E8-4DC3-887C-FD49048E197E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812C8E6D-0021-4A5E-B1DF-DF71F77628D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812C8E6D-0021-4A5E-B1DF-DF71F77628D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812C8E6D-0021-4A5E-B1DF-DF71F77628D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812C8E6D-0021-4A5E-B1DF-DF71F77628D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4E2286-72D5-4567-82EE-F18B80E88FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4E2286-72D5-4567-82EE-F18B80E88FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4E2286-72D5-4567-82EE-F18B80E88FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4E2286-72D5-4567-82EE-F18B80E88FB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
