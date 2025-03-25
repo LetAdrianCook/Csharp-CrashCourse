@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Abstraction", "..\Cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-ExceptionHandling", "..\Csharp-ExceptionHandling\Csharp-ExceptionHandling.csproj", "{38DBC642-4506-42FA-A858-BA1D54DB9D8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-List-ArrayList", "..\Csharp-List-ArrayList\Csharp-List-ArrayList.csproj", "{637172C7-3C49-4D90-8005-1D8ACFE7E994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Interface", "..\Csharp-Interface\Csharp-Interface.csproj", "{C692C79A-A30F-496F-8AA6-1A7D1C1A8925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{38DBC642-4506-42FA-A858-BA1D54DB9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38DBC642-4506-42FA-A858-BA1D54DB9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38DBC642-4506-42FA-A858-BA1D54DB9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637172C7-3C49-4D90-8005-1D8ACFE7E994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637172C7-3C49-4D90-8005-1D8ACFE7E994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637172C7-3C49-4D90-8005-1D8ACFE7E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637172C7-3C49-4D90-8005-1D8ACFE7E994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C692C79A-A30F-496F-8AA6-1A7D1C1A8925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C692C79A-A30F-496F-8AA6-1A7D1C1A8925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C692C79A-A30F-496F-8AA6-1A7D1C1A8925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C692C79A-A30F-496F-8AA6-1A7D1C1A8925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
