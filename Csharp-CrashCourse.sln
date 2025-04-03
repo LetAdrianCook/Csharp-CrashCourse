@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Enums", "..\Csharp-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Files", "..\Csharp-Files\Csharp-Files.csproj", "{C859261E-5D5E-44E8-91BA-2A0662AC2F66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Exceptions-FinallyandThrows", "..\Csharp-Exceptions-FinallyandThrows\Csharp-Exceptions-FinallyandThrows.csproj", "{0136B4BF-A919-430D-92BC-13C4FF8F6B14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{C859261E-5D5E-44E8-91BA-2A0662AC2F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C859261E-5D5E-44E8-91BA-2A0662AC2F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C859261E-5D5E-44E8-91BA-2A0662AC2F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0136B4BF-A919-430D-92BC-13C4FF8F6B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0136B4BF-A919-430D-92BC-13C4FF8F6B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0136B4BF-A919-430D-92BC-13C4FF8F6B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0136B4BF-A919-430D-92BC-13C4FF8F6B14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
